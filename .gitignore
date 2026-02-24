@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Clés et fichiers sensibles
+*.key
+*.enc
+*.dec.txt
+
+# IDE
+.vscode/
+.idea/
